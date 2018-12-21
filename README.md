@@ -8,7 +8,7 @@ You can use the find us on the [Official Wurm Online Discord Server](http://disc
 
 ### Tasks
 - [X] basic framework
-- [X] weather and time command for [Wurm Online Servers](http://wurmonline.com)
+- [X] who, weather and time command for [Wurm Online Servers](http://wurmonline.com)
 - [ ] moderation commands
 - [X] vote command
 - [ ] logging of user role changes and moderation actions
